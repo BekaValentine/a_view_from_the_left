@@ -1,0 +1,41 @@
+- descriptivist approach and the importance of denying understanding
+- data, phenomena, theory - what are theories for, what do they do, what is explanation, etc.
+  - what is data? what are phenomena? what is a theory?
+  - theories evolve, explanations change, what is thought to exist or not changes
+    - phlogiston, caloric, kinetics
+    - aether, spacetime
+    - light as wave or particle
+- existence
+  - neptune - calculated long before it was seen
+  - vulcan - calculated but then never seen
+  - electrons - calculated but impossible to see
+  - spock - demonstrates existence is multifaceted - exists but as a character not as a real vulcan
+- sameness
+  - ship of theseus
+  - hesperus and phosphorus
+  - ermines and stoats
+  - superman, clark kent, kal-el
+  - frege's sense and reference
+  - sameness as a theory
+- categories - complexities
+  - species - ring species
+  - species - fish and whales
+  - dialects - continuums
+  - colors
+  - clouds
+- categories - theories/explanations thereof
+  - physical - colors, clouds
+  - causal - species, dialects
+  - socio-cultural - all
+- measurement and definitions - french seamstresses - science and phenomena and choices and categories
+- logic and logics
+  - what people often mean when they say Logic - first order logic
+  - what logicians mean - a variety of formalisms that adhere to some principles centered around or related to ideas like truth
+- presuppositions, implicatures, and entailments
+- markedness
+- speech acts
+- use and mention
+- structuralism
+- social constructs
+- science as a weaponized tool
+- logic as a weaponized tool
