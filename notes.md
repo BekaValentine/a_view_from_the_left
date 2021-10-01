@@ -28,8 +28,17 @@
   - physical - colors, clouds
   - causal - species, dialects
   - socio-cultural - all
+- framing
+  - cognitive biases, kahneman and tversky
+  - taxes vs. rebates example
+  - framing used as a manipulation tactic - Death Tax vs Estate Tax
 - measurement and definitions - french seamstresses - science and phenomena and choices and categories
-- logic and logics
+- logic: a brief history
+  - european context
+  - aristotle vs. the sophists
+  - not a lot of note wrt modern logic prior to the 1800s
+  - Boole
+  - Frege
   - what people often mean when they say Logic - first order logic
   - what logicians mean - a variety of formalisms that adhere to some principles centered around or related to ideas like truth
 - presuppositions, implicatures, and entailments
@@ -42,6 +51,10 @@
   - how the maxims reveal information beyond just the literal content of the expression
   - how this can be revealing about unstated beliefs that the speaker holds
 - markedness
+  - markedness as a mere linguistic phenomenon
+  - markedness more broadly as a conceptual phenomenon
+    - within a culture, some concepts or categories are treated as a kind of unmarked default or normal, while others are marked and abnormal
+    - how we speak can sometimes reflect this, and how people behave *definitely* reflects this
 - speech acts
 - use and mention
 - structuralism
