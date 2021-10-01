@@ -5,6 +5,7 @@
     - phlogiston, caloric, kinetics
     - aether, spacetime
     - light as wave or particle
+  - theories and explanations changing != denying that something exists
 - existence
   - neptune - calculated long before it was seen
   - vulcan - calculated but then never seen
@@ -32,6 +33,14 @@
   - what people often mean when they say Logic - first order logic
   - what logicians mean - a variety of formalisms that adhere to some principles centered around or related to ideas like truth
 - presuppositions, implicatures, and entailments
+  - what are each of these
+  - how each is used and abused
+    - implicatures are abused to suggest conclusions but in a way that allows the suggester to maintain innocence
+    - presuppositions are abused to smuggle in a claim without it being noticed
+  - presuppositions more broadly also unintentionally embody information about what a person believes to be true outside of the direct content of the utterance
+- gricean maxims and conversational principles
+  - how the maxims reveal information beyond just the literal content of the expression
+  - how this can be revealing about unstated beliefs that the speaker holds
 - markedness
 - speech acts
 - use and mention
@@ -39,3 +48,4 @@
 - social constructs
 - science as a weaponized tool
 - logic as a weaponized tool
+- historical origins of professional societies (esp. medical, psychiatric) and their capture of power
