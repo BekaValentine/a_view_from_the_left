@@ -1,3 +1,9 @@
+# Episodic Structure
+
+! TODO
+
+# Topics
+
 - descriptivist approach and the importance of denying understanding
 - data, phenomena, theory - what are theories for, what do they do, what is explanation, etc.
   - what is data? what are phenomena? what is a theory?
