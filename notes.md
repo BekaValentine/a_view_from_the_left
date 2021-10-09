@@ -1,6 +1,18 @@
 # Episodic Structure
 
-! TODO
+Ideally, episodes start with some interesting puzzle, a curious event, a
+strange phenomenon, etc. Something that draws attention and piques curiosity.
+
+This should then motivate the central subject of the episode, and the
+discussion of that subject.
+
+The motivating example, and other examples, should be used throughout as way
+to demonstrate how to use the ideas. None of these examples should themselves
+be "controversial", they should be boring but valid examples.
+
+Wrap up should ideally should offer some sense of closure to the original
+motivating example, and also connect to broader social issues that *are*
+potentially controversial.
 
 # Topics
 
@@ -38,7 +50,6 @@
   - cognitive biases, kahneman and tversky
   - taxes vs. rebates example
   - framing used as a manipulation tactic - Death Tax vs Estate Tax
-- measurement and definitions - french seamstresses - science and phenomena and choices and categories
 - logic: a brief history
   - european context
   - aristotle vs. the sophists
@@ -63,8 +74,18 @@
     - how we speak can sometimes reflect this, and how people behave *definitely* reflects this
 - speech acts
 - use and mention
+- measurement and definitions - science and phenomena and choices and categories
+  - french seamstresses
+  - Gaal's counting system base question from Foundation
 - structuralism
 - social constructs
 - science as a weaponized tool
 - logic as a weaponized tool
 - historical origins of professional societies (esp. medical, psychiatric) and their capture of power
+- distinctive features
+  - contrasts are noticed and named
+  - "chai" in the American English context
+  - more general versions, e.g. truth is pain in new atheism and tttt
+- evolution, survival of the fittest, and ladders of life
+  - "noble" wolves vs. "deformed" dogs
+  - the importing of human culture and values into views about biology, and the use of biology to justify those views
